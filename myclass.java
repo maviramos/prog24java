@@ -11,6 +11,15 @@ public class myclass {
     
         System.out.println("--------------");
 
+        int [] a = {1,2};
+        String b = "str";
+        String [] c = { "aa", "bb", "cc", "dd", "ee"};
+        System.out.println(a.length);
+        System.out.println(b.length());
+        System.out.println(c.length);
+        System.out.println(c[1].length());
+
+
     
 
 
