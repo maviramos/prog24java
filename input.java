@@ -1,3 +1,6 @@
+// comentários da aula: //
+
+
 //in é a entrada (teclado) 
 // out é a saida 
 // sempre colocar ; no final de cada linha 
@@ -8,7 +11,7 @@
 // nextLine pega a linha completa inclusive o enter e o enter pega a linha inteira automáticamente, * 
 // * next vai pegar so o proximo por isso da erro ao colocar so ele
 
-
+//
 
 
 
