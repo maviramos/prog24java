@@ -11,8 +11,5 @@ public class main
             System.out.println(args[i]);
         }
         
-    }
-
-
-    
+    }    
 }
