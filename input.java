@@ -10,11 +10,10 @@
 // input pode ser substituido por uma variavel, ex: de Scanner input  p/ Scanner s 
 // nextLine pega a linha completa inclusive o enter e o enter pega a linha inteira automáticamente, * 
 // * next vai pegar so o proximo por isso da erro ao colocar so ele
-
+// aula: 18/07
 
 
 import java.util.Scanner;
-import javax.sql.rowset.spi.SyncFactory;
 class input {
       public static void main(String[]args){
         Scanner input = new Scanner (System.in);
